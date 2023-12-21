@@ -1,0 +1,10 @@
+html {
+    background: white;
+  }
+  body {
+    background: white;
+  }
+  
+  html, body, #__next {
+    height: 100%;
+  }
